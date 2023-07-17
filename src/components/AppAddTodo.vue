@@ -1,6 +1,6 @@
 <script lang="ts">
   import { defineComponent } from "vue";
-  import Todo from "../types/Todo";
+  import { Todo } from "../types/Todo";
 
   interface State {
     isFormVisible: boolean,

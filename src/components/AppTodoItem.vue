@@ -12,7 +12,7 @@
 
 <script lang="ts">
 import { defineComponent, PropType } from "vue";
-import Todo from "../types/Todo";
+import { Todo } from "../types/Todo";
 
   export default defineComponent({
     props:{
